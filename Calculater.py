@@ -115,3 +115,5 @@ btn4.pack(side=LEFT, padx=10, pady=10)
 window.mainloop()
 
 print("let's test")
+print("let's test")
+print("let's test")
